@@ -8,8 +8,7 @@ https://kanishka-portfoio-website.netlify.app/
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Kanishka**, an IT student and AI enthusiast. I am currently working as a **Python Programming Intern at Coding Missions IT Solutions**.
-This portfolio highlights my technical skills, certifications, and projects.
+I’m Kanishka, an aspiring Web & Python Developer. I build practical projects that solve real-world problems and constantly explore new technologies. My passion is creating applications that are not just functional, but elegant and user-friendly.
 
 ## 🚀 Features
 
@@ -49,7 +48,7 @@ Some of the certifications included in this portfolio:
 
 If you'd like to connect or collaborate:
 
-* LinkedIn:linkedin.com/in/kanishka-gopiramanan-33879632b
+* LinkedIn: http://linkedin.com/in/kanishka-gopiramanan-33879632b
 * GitHub: https://github.com/kanishkagopiramanan-ai
 
 ## ⭐ Support
